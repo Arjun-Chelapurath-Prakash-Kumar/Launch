@@ -2,6 +2,6 @@ class Launch
 {
 	void m1()
 	{
-		//Some code
+		System.out.println("hello java");
 	}
 }
